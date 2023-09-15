@@ -1,2 +1,3 @@
 # Folha_Salarial_Simples
  Esse projeto foi realizado com a Linguagem C#, onde através do .NET eu criei um Windows Forms (aplicativo desktop para windows), com o intuito de calcular a folha salarial de um trabalhador, onde ele precisará apenas colocar o valor do seu salário, clicar em um botão e o aplicativo irá mostar na tela os valores descontados de Imposto de Renda e INSS e qual será o valor do seu salário após estes descontos. Lembrando que esse aplicativo não irá considerar outros descontos que não sejam INSS e Imposto de Renda. 
+Para acessar o código contendo toda a lógica do programa faça o caminho Folha_Salario_Simples/Folha Salarial Simples Final/Form1.cs
