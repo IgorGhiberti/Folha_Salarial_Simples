@@ -13,3 +13,18 @@ C:\Users\igorg\Desktop\Curso C# Impacta\Folha_Salario_Simples\Folha Salarial Sim
 C:\Users\igorg\Desktop\Curso C# Impacta\Folha_Salario_Simples\Folha Salarial Simples Final\bin\Debug\Folha Salarial Simples Final.application
 C:\Users\igorg\Desktop\Curso C# Impacta\Folha_Salario_Simples\Folha Salarial Simples Final\obj\Debug\Folha Salarial Simples Final.exe.manifest
 C:\Users\igorg\Desktop\Curso C# Impacta\Folha_Salario_Simples\Folha Salarial Simples Final\obj\Debug\Folha Salarial Simples Final.application
+C:\Users\igorg\OneDrive\Área de Trabalho\GitHub\Folha_Salarial_Simples\Folha_Salario_Simples\Folha Salarial Simples Final\bin\Debug\Folha Salarial Simples Final.exe.config
+C:\Users\igorg\OneDrive\Área de Trabalho\GitHub\Folha_Salarial_Simples\Folha_Salario_Simples\Folha Salarial Simples Final\bin\Debug\Folha Salarial Simples Final.exe.manifest
+C:\Users\igorg\OneDrive\Área de Trabalho\GitHub\Folha_Salarial_Simples\Folha_Salario_Simples\Folha Salarial Simples Final\bin\Debug\Folha Salarial Simples Final.application
+C:\Users\igorg\OneDrive\Área de Trabalho\GitHub\Folha_Salarial_Simples\Folha_Salario_Simples\Folha Salarial Simples Final\bin\Debug\Folha Salarial Simples Final.exe
+C:\Users\igorg\OneDrive\Área de Trabalho\GitHub\Folha_Salarial_Simples\Folha_Salario_Simples\Folha Salarial Simples Final\bin\Debug\Folha Salarial Simples Final.pdb
+C:\Users\igorg\OneDrive\Área de Trabalho\GitHub\Folha_Salarial_Simples\Folha_Salario_Simples\Folha Salarial Simples Final\obj\Debug\Folha Salarial Simples Final.csproj.AssemblyReference.cache
+C:\Users\igorg\OneDrive\Área de Trabalho\GitHub\Folha_Salarial_Simples\Folha_Salario_Simples\Folha Salarial Simples Final\obj\Debug\Folha Salarial Simples Final.csproj.SuggestedBindingRedirects.cache
+C:\Users\igorg\OneDrive\Área de Trabalho\GitHub\Folha_Salarial_Simples\Folha_Salario_Simples\Folha Salarial Simples Final\obj\Debug\Folha_Salarial_Simples_Final.FormFinal.resources
+C:\Users\igorg\OneDrive\Área de Trabalho\GitHub\Folha_Salarial_Simples\Folha_Salario_Simples\Folha Salarial Simples Final\obj\Debug\Folha_Salarial_Simples_Final.Properties.Resources.resources
+C:\Users\igorg\OneDrive\Área de Trabalho\GitHub\Folha_Salarial_Simples\Folha_Salario_Simples\Folha Salarial Simples Final\obj\Debug\Folha Salarial Simples Final.csproj.GenerateResource.cache
+C:\Users\igorg\OneDrive\Área de Trabalho\GitHub\Folha_Salarial_Simples\Folha_Salario_Simples\Folha Salarial Simples Final\obj\Debug\Folha Salarial Simples Final.csproj.CoreCompileInputs.cache
+C:\Users\igorg\OneDrive\Área de Trabalho\GitHub\Folha_Salarial_Simples\Folha_Salario_Simples\Folha Salarial Simples Final\obj\Debug\Folha Salarial Simples Final.exe.manifest
+C:\Users\igorg\OneDrive\Área de Trabalho\GitHub\Folha_Salarial_Simples\Folha_Salario_Simples\Folha Salarial Simples Final\obj\Debug\Folha Salarial Simples Final.application
+C:\Users\igorg\OneDrive\Área de Trabalho\GitHub\Folha_Salarial_Simples\Folha_Salario_Simples\Folha Salarial Simples Final\obj\Debug\Folha Salarial Simples Final.exe
+C:\Users\igorg\OneDrive\Área de Trabalho\GitHub\Folha_Salarial_Simples\Folha_Salario_Simples\Folha Salarial Simples Final\obj\Debug\Folha Salarial Simples Final.pdb
