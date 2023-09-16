@@ -152,7 +152,7 @@
             this.descontoIrLable.Name = "descontoIrLable";
             this.descontoIrLable.Size = new System.Drawing.Size(87, 15);
             this.descontoIrLable.TabIndex = 5;
-            this.descontoIrLable.Text = "Desconto IRFF";
+            this.descontoIrLable.Text = "Desconto IRRF";
             // 
             // descontoInssLable
             // 
